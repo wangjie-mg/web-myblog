@@ -1,0 +1,14 @@
+button{
+    padding: 6px 15px 6px 15px;
+    border-radius: 5px;
+    border: #1890ff;
+    background:#1890ff ;
+    color: white;
+    cursor: pointer
+}
+.demo-loadmore-list {
+    width:80vw;
+    height:60vh;
+    margin: 0 auto;
+    margin-top: 6vh;
+}

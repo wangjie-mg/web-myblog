@@ -1,0 +1,21 @@
+label{
+  font-size: 18px;
+  font-weight: 600;
+}
+.b,.a{
+  display: inline-block;
+}
+.a{
+  margin: 0 2vw 0 5vw;
+}
+
+.example-input {
+  width:80vw;
+  border: #ddd 1px solid;
+  margin : 0vh auto;
+  padding: 13px;
+}
+.example-input .ant-input {
+  width: 200px;
+  margin: 0vh 0vw 0vh 3vw ;
+}

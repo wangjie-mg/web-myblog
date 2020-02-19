@@ -1,0 +1,17 @@
+.main-a{
+    text-align: center;
+    height: 55vh;
+    margin-top:5vh ;
+    border: 6px  dashed rgba(0, 0, 0, 0.15) ;
+}
+.main-b{
+    margin-top: 11vh;
+}
+.main-a-f{
+    margin:5vh auto;
+    max-width:40vw;
+    font-size:3rem;
+}
+p{
+    font-size: 17px;
+}

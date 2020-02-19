@@ -1,0 +1,21 @@
+h1{
+    font-size:35px;
+}
+h2{
+    font-size:30px;
+}
+h3{
+    font-size: 27px;
+}
+h4{
+    font-size:24px;
+}
+h5{
+    font-size:20px；
+}h6{
+    font-size:18px;
+}
+.main-write{
+    max-width:60vw;
+    margin: auto;
+}
